@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class CountLeaves {
 	
 	public static int countLeaves(BinaryTreeNode root)

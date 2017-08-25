@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class HeightofBinaryTree {
 	
 	public static int getHeight(BinaryTreeNode root)

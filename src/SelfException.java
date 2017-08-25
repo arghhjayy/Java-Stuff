@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 class SelfException extends Exception {
 	String message;
 	

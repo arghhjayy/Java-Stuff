@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class ArrayRotation {
 	
 	//Method 1

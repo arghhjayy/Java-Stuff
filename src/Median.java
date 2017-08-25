@@ -1,10 +1,4 @@
-
 import java.util.Arrays;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class Median {
 	public static int median(int[] arr)

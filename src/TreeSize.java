@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class TreeSize {
 	
 	public static int getSize(BinaryTreeNode root)

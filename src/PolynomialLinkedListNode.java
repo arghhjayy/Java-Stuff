@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class PolynomialLinkedListNode {
 	public int data;
 	public int exponent;

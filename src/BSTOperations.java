@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class BSTOperations {
 	
 	public static void addNode(BinaryTreeNode root, int data)

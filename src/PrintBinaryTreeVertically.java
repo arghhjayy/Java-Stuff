@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 //Given a binary tree, print it vertically

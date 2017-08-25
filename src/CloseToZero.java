@@ -1,10 +1,5 @@
 import java.util.Arrays;
 
-/**
- *
- * @author arghhjayy
- */
-
 //Given an array, find two numbers for which the sum of them is closest
 //to zero.
 

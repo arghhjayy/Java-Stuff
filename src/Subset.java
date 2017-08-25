@@ -1,7 +1,5 @@
-
 import java.util.HashMap;
 import java.util.Map;
-
 
 //Given two arrays, array1 and array2, find if array2 is a subset of array1
 

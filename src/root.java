@@ -1,8 +1,0 @@
-/**
- *
- * @author arghhjayy
- */
-
-class root {
-
-}

@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 //Given two sorted arrays:
 	//1) of size m + n but containing only m elements, rest of them are empty
 	//   which is denoted by -1 in the code

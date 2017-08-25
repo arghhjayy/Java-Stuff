@@ -1,10 +1,4 @@
-
 import java.util.ArrayList;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class UnionAndIntersection {
 	public static ArrayList<Integer> union(ArrayList<Integer> a1, ArrayList<Integer> a2)

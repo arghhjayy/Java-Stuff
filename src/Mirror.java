@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class Mirror {
 	
 	public static BinaryTreeNode mirror(BinaryTreeNode root)

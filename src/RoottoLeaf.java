@@ -1,11 +1,5 @@
-
 import java.util.ArrayList;
 import java.util.LinkedList;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class RoottoLeaf {
 	

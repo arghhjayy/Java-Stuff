@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class MinimumValueNode {
 	
 	public static BinaryTreeNode minimumValueNode(BinaryTreeNode root)

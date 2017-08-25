@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class LowestCommonAncestor {
 	
 	public static void addNode(BinaryTreeNode root, int data)

@@ -1,10 +1,4 @@
-
 import java.util.Scanner;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class PrintAncestors {
 	

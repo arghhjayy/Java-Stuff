@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 import java.io.File;
 
 public class FileDemo {

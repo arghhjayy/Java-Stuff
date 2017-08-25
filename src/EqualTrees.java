@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class EqualTrees {
 	
 	public static boolean areEqual(BinaryTreeNode root1, BinaryTreeNode root2)

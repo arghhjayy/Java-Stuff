@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class ChildrenSum {
 	
 	public static int hasChildrenSum(BinaryTreeNode root)

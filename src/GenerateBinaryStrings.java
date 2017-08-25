@@ -1,10 +1,4 @@
-
 import java.util.LinkedList;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class GenerateBinaryStrings {
 	

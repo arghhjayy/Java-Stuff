@@ -1,10 +1,4 @@
-
 import java.util.Scanner;
-
-/**
- *
- * @author arghhjayy
- */
 
 //Given an array of integers, print out the smallest two
 public class KSmallestElements {

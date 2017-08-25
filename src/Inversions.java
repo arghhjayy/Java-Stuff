@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 //Find number of inversions: An inversion in an array if at some i and j,
 // arr[i] > arr[j] where i < j
 

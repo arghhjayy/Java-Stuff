@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 import java.util.Scanner;
 
 public class BSTPrecSuc {

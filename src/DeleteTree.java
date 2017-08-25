@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class DeleteTree {
 	
 	public static void deleteTree(BinaryTreeNode root)

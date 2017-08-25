@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class MergeSort {
 	
 	public static void merge(int[] arr, int leftLimit, int rightLimit)

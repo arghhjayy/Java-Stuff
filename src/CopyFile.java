@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 import java.io.*;
 
 public class CopyFile {

@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class MakingChildrenSum {
 	
 	public static void increment(BinaryTreeNode root, int diff)

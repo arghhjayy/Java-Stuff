@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 //Given an array, print all elements for which all the elements to their right
 //are smaller
 

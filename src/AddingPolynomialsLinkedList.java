@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class AddingPolynomialsLinkedList {
 	
 	public static void addPolynomials(PolynomialLinkedListNode root1, PolynomialLinkedListNode root2, PolynomialLinkedListNode res_head)

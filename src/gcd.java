@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class gcd {
 	public static int getGCD(int x, int y)
 	{

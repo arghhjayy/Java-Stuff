@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class PrintReducedString {
 	public static void printReduced(String string)
 	{

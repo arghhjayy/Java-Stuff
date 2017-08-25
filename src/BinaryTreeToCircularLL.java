@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class BinaryTreeToCircularLL {
 	
 	public static BinaryTreeNode concatenate(BinaryTreeNode head1, BinaryTreeNode head2)

@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class ReverseArray {
 	
 	public static void reverse(int[] arr)

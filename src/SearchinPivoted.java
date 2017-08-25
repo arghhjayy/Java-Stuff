@@ -1,8 +1,3 @@
-/**
- *
- * @author arghhjayy
- */
-
 public class SearchinPivoted {
 	
 	//==============//

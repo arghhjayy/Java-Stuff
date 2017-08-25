@@ -1,10 +1,4 @@
-
 import java.util.Stack;
-
-/**
- *
- * @author arghhjayy
- */
 
 public class InOrderTraversal {
 	
