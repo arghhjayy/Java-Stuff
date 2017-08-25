@@ -1,3 +1,3 @@
 # Java-Stuff
-Algorithms, data structures and more in Java\n
+Algorithms, data structures and more in Java<br/>
 Influences: geeksforgeeks.org
