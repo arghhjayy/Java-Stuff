@@ -31,6 +31,13 @@ public class BSTOperations {
 			return getMinValue(root.left);
 	}
 	
+	public static int getMaxValue(BinaryTreeNode root){
+		if(root.right == null)
+			return root.data;
+		else
+			return getMaxValue(root.right);
+	}
+	
 	public static void inOrder(BinaryTreeNode root)
 	{
 		if(root != null)
