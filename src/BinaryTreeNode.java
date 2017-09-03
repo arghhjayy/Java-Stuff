@@ -20,4 +20,28 @@ public class BinaryTreeNode
 	{
 		this.right = new BinaryTreeNode(data);
 	}
+	
+	public static void inOrder(BinaryTreeNode root){
+		if(root != null){
+			inOrder(root.left);
+			System.out.print(root.data + " ");
+			inOrder(root.right);
+		}
+	}
+	
+	public static void preOrder(BinaryTreeNode root){
+		if(root != null){
+			System.out.print(root.data + " ");
+			preOrder(root.left);
+			preOrder(root.right);
+		}
+	}
+	
+	public static void postOrder(BinaryTreeNode root){
+		if(root != null){
+			postOrder(root.left);
+			postOrder(root.right);
+			System.out.print(root.data + " ");
+		}
+	}
 }
